@@ -19,8 +19,6 @@ Model Architecture
 4. Dropout Regularization (0.3) to reduce overfitting. 
 5. Total trainable parameters < 5 million to comply with competition constraints.
 
-Project Structure
-Since the entire project runs inside one file (.ipynb or .py), the structure is: cifar10-classification (Project root), cifar10_classifier.ipynb (Full Kaggle notebook with all code), cifar10_classifier.py (Single Python script version), README.md (Project documentation), submission.csv (Final test predictions), training_results.png (Saved plots of loss & accuracy). Additionally, datasets and models are downloaded/stored within the notebook runtime (not manually placed in folders).
 
 Training Pipeline
 1. Data Loading - Downloads CIFAR-10 dataset and applies transformations (flips, crops, color jitter). Uses CutMix & MixUp for better generalization. Splits dataset into training (80%) and validation (20%) sets. 
