@@ -44,9 +44,4 @@ Results
 Best Validation Accuracy: 91.24%. 
 
 Authors
-Devanshi Bhavsar (dnb7638), Nikhil Arora (na4063).
-
-
-
-
-
+Devanshi Bhavsar (dnb7638), Nikhil Arora (na4063)
