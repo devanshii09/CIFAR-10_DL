@@ -37,7 +37,7 @@ source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate  # For Windows  
 
 2. Install all required dependencies
-pip install -r requirements.txt or
+pip install -r requirement.txt or
 !pip install torch torchvision numpy pandas matplotlib tqdm scikit-learn
 
 Results
