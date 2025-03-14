@@ -32,12 +32,17 @@ Requirements Installation
 
 To install all dependencies required for this project, use the provided requirements.txt file.
 1. Create and activate a virtual environment (optional but recommended)
+
 python -m venv venv
+
 source venv/bin/activate  # For macOS/Linux  
+
 venv\Scripts\activate  # For Windows  
 
 3. Install all required dependencies
+   
 pip install -r requirement.txt or
+
 !pip install torch torchvision numpy pandas matplotlib tqdm scikit-learn
 
 Results
