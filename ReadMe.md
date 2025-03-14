@@ -45,8 +45,10 @@ pip install -r requirement.txt or
 
 !pip install torch torchvision numpy pandas matplotlib tqdm scikit-learn
 
+
 Results
 Best Validation Accuracy: 91.24%. 
+
 
 Authors
 Devanshi Bhavsar (dnb7638), Nikhil Arora (na4063).
