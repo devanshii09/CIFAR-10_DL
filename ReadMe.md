@@ -29,6 +29,7 @@ Training Pipeline
 6. Submission Generation - Formats predictions into a CSV file (submission.csv) with the correct structure: ID, Labels 1, 3 2, 5 3, 
 
 Requirements Installation
+
 To install all dependencies required for this project, use the provided requirements.txt file.
 1. Create and activate a virtual environment (optional but recommended)
 python -m venv venv  
